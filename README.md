@@ -17,4 +17,4 @@ You would like to visit the following website for more information, visit
 [Django Tutorial](https://www.djangotutorial.com)
 [Git Tutorial](https://www.githubtutorial.com)
 [Python Tutorial](https://www.pythontutorial.com)
-[^1]:This is the beginnig of a great thing.
+[^1]: This is the beginnig of a great thing.
